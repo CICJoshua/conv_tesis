@@ -1,0 +1,5 @@
+name: env_name
+channels:
+  - defaults
+prefix: /001/usuarios/joshuaguerrero/anaconda3/envs/env_name
+
